@@ -5,6 +5,11 @@
         "github": "cgentemann"
     },
     {
+        "name": "Wenhao Li",
+        "organization": "NASA",
+        "github": "Wenhao"
+    },
+    {
         "name": "Andy Harris",
         "organization": "Dis",
         "github": "andy123harris"
@@ -33,10 +38,5 @@
         "name": "Andrea Pisano",
         "organization": "ISMAR CNR",
         "github": "andreapisano"
-    },
-{
-        "name": "Chunxue Yang",
-        "organization": "ISMAR CNR",
-        "github": "chunxueyang"
     }
 ]
